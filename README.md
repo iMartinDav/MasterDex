@@ -1,4 +1,4 @@
-<h1 align="center">Pokedex</h1>
+<h1 align="center">MasterDex</h1>
 
 <p align="center">
   <a href="https://devlibrary.withgoogle.com/products/android/repos/skydoves-pokedex"><img alt="Google" src="https://skydoves.github.io/badges/google-devlib.svg"/></a><br>
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">  
-🗡️ Pokedex demonstrates modern Android development with Hilt, Coroutines, Flow, Jetpack (Room, ViewModel), and Material Design based on MVVM architecture.
+🗡️ MasterDex demonstrates modern Android development with Hilt, Coroutines, Flow, Jetpack (Room, ViewModel), and Material Design based on MVVM architecture.
 </p>
 </br>
 
@@ -118,7 +118,6 @@ Also, __[follow me](https://github.com/skydoves)__ on GitHub for my next creatio
 
 # License
 ```xml
-Designed and developed by 2022 skydoves (Jaewoong Eum)
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
