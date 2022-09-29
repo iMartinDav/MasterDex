@@ -1,27 +1,16 @@
 <h1 align="center">MasterDex</h1>
 
 <p align="center">
-  <a href="https://devlibrary.withgoogle.com/products/android/repos/skydoves-pokedex"><img alt="Google" src="https://skydoves.github.io/badges/google-devlib.svg"/></a><br>
-  <a href="https://opensource.org/licenses/Apache-2.0"><img alt="License" src="https://img.shields.io/badge/License-Apache%202.0-blue.svg"/></a>
-  <a href="https://android-arsenal.com/api?level=21"><img alt="API" src="https://img.shields.io/badge/API-21%2B-brightgreen.svg?style=flat"/></a>
-  <a href="https://github.com/skydoves/Pokedex/actions"><img alt="Build Status" src="https://github.com/skydoves/Pokedex/workflows/Android%20CI/badge.svg"/></a> 
-  <a href="https://proandroiddev.com/exploring-dagger-hilt-and-whats-main-differences-with-dagger-android-c8c54cd92f18"><img alt="Medium" src="https://skydoves.github.io/badges/Story-Medium.svg"/></a>
-  <a href="https://github.com/skydoves"><img alt="Profile" src="https://skydoves.github.io/badges/skydoves.svg"/></a> 
 </p>
 
 <p align="center">  
-🗡️ MasterDex demonstrates modern Android development with Hilt, Coroutines, Flow, Jetpack (Room, ViewModel), and Material Design based on MVVM architecture.
+MasterDex demonstrates modern Android development with Hilt, Coroutines, Flow, Jetpack (Room, ViewModel), and Material Design based on MVVM architecture.
 </p>
 </br>
-
-<p align="center">
-<img src="/previews/screenshot.png"/>
-</p>
-
-## Download
-Go to the [Releases](https://github.com/skydoves/Pokedex/releases) to download the latest APK.
-
-<img src="/previews/preview.gif" align="right" width="320"/>
+<img src="https://user-images.githubusercontent.com/48512425/192959334-b5277d0c-7323-4cd4-8d1f-86bc3716203b.png"
+   alt="Short Image Description"
+   style="float: left; margin-right: 10px;" 
+   /> 
 
 ## Tech stack & Open-source libraries
 - Minimum SDK level 21
@@ -53,7 +42,7 @@ Go to the [Releases](https://github.com/skydoves/Pokedex/releases) to download t
 - [Timber](https://github.com/JakeWharton/timber): A logger with a small, extensible API.
 
 ## Architecture
-**Pokedex** is based on the MVVM architecture and the Repository pattern, which follows the [Google's official architecture guidance](https://developer.android.com/topic/architecture).
+**Masterdex** is based on the MVVM architecture and the Repository pattern, which follows the [Google's official architecture guidance](https://developer.android.com/topic/architecture).
 
 ![architecture](figure/figure0.png)
 
@@ -111,10 +100,6 @@ For more information, check out the [Guide to Android app modularization](https:
 
 Pokedex using the [PokeAPI](https://pokeapi.co/) for constructing RESTful API.<br>
 PokeAPI provides a RESTful API interface to highly detailed objects built from thousands of lines of data related to Pokémon.
-
-## Find this repository useful? :heart:
-Support it by joining __[stargazers](https://github.com/skydoves/Pokedex/stargazers)__ for this repository. :star: <br>
-Also, __[follow me](https://github.com/skydoves)__ on GitHub for my next creations! 🤩
 
 # License
 ```xml
